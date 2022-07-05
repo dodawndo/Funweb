@@ -26,7 +26,8 @@
 		<div class="clear"></div>   
 		<!-- 본문들어가는 곳 -->
 		<!-- 메인 이미지 -->
-		<div id="main_img"><img src="../images/main_img1.jpg"></div>
+		<div id="main_img"><img src="../images/zaraimage.jpg" style="width: 970px;
+    height: 475px;"></div>
 		<!-- 본문 내용 -->
 		<article id="front">
 		  	<div id="solution">
