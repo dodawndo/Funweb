@@ -38,7 +38,8 @@ String id = (String)session.getAttribute("sId"); // Object -> String 형변환 �
   </div>
   <div class="clear"></div>
   <!-- 로고들어가는 곳 -->
-  <div id="zara_rogo"><img src="../images/logo.gif"></div>
+  <div id="zara_rogo"><img src="../images/zara_rogo.png" style="width: 255px;
+    margin-bottom: 16px;"></div>
   <!-- 메뉴들어가는 곳 -->
   <nav id="top_menu">
   	<ul>
