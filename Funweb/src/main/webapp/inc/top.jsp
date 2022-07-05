@@ -35,7 +35,7 @@ String id = (String)session.getAttribute("sId"); // Object -> String 형변환 �
 <%--   		</c:otherwise> --%>
 <%--   	</c:choose> --%>
 <!-- -------------------------------------------------------------------------------------------------- -->
-  </div>
+  </div> 
   <div class="clear"></div>
   <!-- 로고들어가는 곳 --> 
   <div id="zara_rogo"><img src="../images/zara_rogo.png" style="width: 255px;
